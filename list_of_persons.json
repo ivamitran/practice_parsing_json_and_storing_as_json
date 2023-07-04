@@ -13,15 +13,5 @@
         "name": "Alice",
         "age": 35,
         "city": "Chicago"
-    },
-    {
-        "name": "Fred",
-        "age": "22",
-        "city": "San Gabriel"
-    },
-    {
-        "name": "Jarold",
-        "age": "29",
-        "city": "Washington DC"
     }
 ]
